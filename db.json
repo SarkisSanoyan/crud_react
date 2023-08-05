@@ -1,51 +1,51 @@
 {
   "users": [
+     {
+      "id": 1,
+      "name": "Asya",
+      "surname": "Harutyunyan",
+      "phone": "077-51-52-53",
+      "email": "test1@gmail.com",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
+    {
+      "id": 2,
+      "name": "Hasmik",
+      "surname": "Dallakyan",
+      "phone": "091 00-01-02",
+      "email": "test2@mail.ru",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
     {
       "id": 3,
       "name": "Sarkis",
-      "surname": "Sanoyan",
-      "phone": "095 78-87-48",
-      "email": "dr.sanoyan@inbox.ru",
+      "surname": "Simonyan",
+      "phone": "095 78-79-80",
+      "email": "test3@inbox.ru",
       "img": "https://via.placeholder.com/600/1ee8a4"
     },
     {
       "id": 4,
       "name": "Poghos",
-      "surname": "Keshishyan",
-      "phone": "094 03-40-12",
-      "email": "poghos877@gmail.com",
+      "surname": "Khachatryan",
+      "phone": "094 03-04-05",
+      "email": "test4@gmail.com",
       "img": "https://via.placeholder.com/600/1ee8a4"
     },
     {
       "id": 5,
       "name": "Harut",
-      "surname": "Oksuzyan",
-      "phone": "098 39-22-55",
-      "email": "oqsuzyanharut@gmail.com",
+      "surname": "Arshakyan",
+      "phone": "098 37-38-39",
+      "email": "test5@gmail.com",
       "img": "https://via.placeholder.com/600/1ee8a4"
     },
     {
       "id": 6,
       "name": "Nairi",
       "surname": "Arustamyan",
-      "phone": "094 19-89-69",
-      "email": "arustamyan.nairi@bk.ru",
-      "img": "https://via.placeholder.com/600/1ee8a4"
-    },
-    {
-      "id": 1,
-      "name": "Asya",
-      "surname": "Hovhannisyan",
-      "phone": "077-53-52-87",
-      "email": "asyahovhannisyan1996@gmail.com",
-      "img": "https://via.placeholder.com/600/1ee8a4"
-    },
-    {
-      "id": 2,
-      "name": "Hasmik",
-      "surname": "Dalibaltyan",
-      "phone": "091 00-91-92",
-      "email": "hasmikdalibaltyan@mail.ru",
+      "phone": "094 15-16-17",
+      "email": "test6@bk.ru",
       "img": "https://via.placeholder.com/600/1ee8a4"
     }
   ]
