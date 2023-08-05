@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Sarkis",
+      "surname": "Sanoyan",
+      "phone": "095 78-87-48",
+      "email": "dr.sanoyan@inbox.ru",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
+    {
+      "id": 4,
+      "name": "Poghos",
+      "surname": "Keshishyan",
+      "phone": "094 03-40-12",
+      "email": "poghos877@gmail.com",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
+    {
+      "id": 5,
+      "name": "Harut",
+      "surname": "Oksuzyan",
+      "phone": "098 39-22-55",
+      "email": "oqsuzyanharut@gmail.com",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
+    {
+      "id": 6,
+      "name": "Nairi",
+      "surname": "Arustamyan",
+      "phone": "094 19-89-69",
+      "email": "arustamyan.nairi@bk.ru",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
+    {
+      "id": 1,
+      "name": "Asya",
+      "surname": "Hovhannisyan",
+      "phone": "077-53-52-87",
+      "email": "asyahovhannisyan1996@gmail.com",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    },
+    {
+      "id": 2,
+      "name": "Hasmik",
+      "surname": "Dalibaltyan",
+      "phone": "091 00-91-92",
+      "email": "hasmikdalibaltyan@mail.ru",
+      "img": "https://via.placeholder.com/600/1ee8a4"
+    }
+  ]
+}
